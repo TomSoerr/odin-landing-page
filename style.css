@@ -93,7 +93,7 @@ button {
     font-size: 20px;
     font-weight: 500;
 }
-.section3 p:first-child {
+.section3 .text-large {
     font-style: italic;
     font-weight: 300;
 }
@@ -176,6 +176,7 @@ body {
 .container0 {
     gap: 40px;
 }
+
 /* section 1 */
 
 .container1 {
@@ -211,4 +212,27 @@ body {
 
 .container2 p {
     margin: 20px 0 40px;
+}
+
+/* section 3 */
+
+.container3 {
+    gap: 40px;
+    align-items: center;
+}
+
+.container3 p {
+    flex: 0 1 1150px;
+}
+
+/* section 4 */
+
+.container4 {
+    gap: 40px;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+.container4 button {
+    align-self: flex-end;
 }
