@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Butterfly+Kids|Roboto');
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #F9FAF8;
+}
+.header, .section1, .footer {
+    background-color: #1F2937;
+}
+
+.header div:first-child, .section1 div p:first-child, .footer {
+    color: #F9FAF8;
+}
+
+.section1 div p:first-child {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.header div:first-child {
+    font-size: 24px;
+}
+
+.header div, .section1 div p {
+    color: #E5E7EB;
+}
+
+.section3 {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.section p {
+    color: #152937;
+    font-size: 16px;
+}
+
+.section2 p:first-child {
+    font-weight: 900;
+    font-size: 36px;
+}
+
+button {
+	background: #3882F6;
+	color: #F9FAF8;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+.section4 div {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
