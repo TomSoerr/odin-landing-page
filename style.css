@@ -62,10 +62,6 @@ button {
     background-color: #3882F6;
 }
 
-button:hover {
-    color: #3882F6;
-    border-color: #3882F6;
-}
 
 /* font sizing */
 
@@ -117,9 +113,23 @@ button {
     padding: 10px 25px;
 }
 
+button:hover {
+    color: #3882F6;
+}
+
 .section4 button {
-    border-width: 1px;
-    border-style: solid;
+    border: 1px solid #F9FAF8;
+
+}
+.section1 button {
+    border: 1px solid #3882F6;
+}
+.section1 button:hover {
+    border: 1px solid #1F2937;
+}
+
+.section4 button:hover {
+    border-color: #3882F6;
 }
 
 /* felxbox styling */
@@ -148,7 +158,7 @@ body {
 .container2,
 .container3,
 .container4 {
-    width: 80%;
+    width: 70%;
     margin: 150px 0;
 }
 
@@ -159,7 +169,7 @@ body {
 }
 
 .container0 {
-    width: 80%;
+    width: 70%;
     height: 60px;
     align-items: center;
 }
@@ -186,7 +196,7 @@ body {
 .hero-text {
     display: flex;
     flex-direction: column;
-    flex: 0 1 750px;
+    flex: 0 1 650px;
     justify-content: space-between;
     gap: 20px;
 }
@@ -195,6 +205,11 @@ body {
     align-self: flex-start;
 }
 
+.container1 img {
+    width: 650px;
+    border-radius: 8px;
+    /* box-shadow: 0px 2px 10px 2px #f9faf841; */
+}
 /* section 2 */
 
 .container2 {
@@ -222,7 +237,12 @@ body {
 }
 
 .container3 p {
-    flex: 0 1 1150px;
+    flex: 0 1 750px;
+}
+
+.container3 img {
+    width: 550px;
+    border-radius: 8px;
 }
 
 /* section 4 */
@@ -231,6 +251,8 @@ body {
     gap: 40px;
     padding: 40px;
     border-radius: 15px;
+    justify-content: space-around;
+    box-sizing: border-box;
 }
 
 .container4 button {
