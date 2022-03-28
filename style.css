@@ -107,8 +107,8 @@ button {
 
 button {
     border: inherit;
-	cursor: pointer;
-	outline: none;
+    cursor: pointer;
+    outline: none;
     border-radius: 8px;
     padding: 10px 25px;
 }
