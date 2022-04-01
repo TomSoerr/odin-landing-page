@@ -1,7 +1,7 @@
 # Mein Landing-Page Projekt
 In diesem Projekt von <em>„The Odin Project“</em> erstelle ich eine Landing-Page mit HTML und CSS. Ich benutze Flexbox zum styling und die Webseite wäre für einen Fahrradladen geeignet. Hier ist ein Link zur [Live Preview](https://tomsoerr.github.io/odin-landing-page/)
 
-Hier geht es zu meinem nächsten [Projekt](https://tomsoerr.github.io/odin-rock-paper-scissors/)
+Hier geht es zu meinem nächsten [Projekt](https://github.com/TomSoerr/odin-rock-paper-scissors)
 
 Fotos von Pixabay: <br>
 https://pixabay.com/images/id-6950837/ <br>
