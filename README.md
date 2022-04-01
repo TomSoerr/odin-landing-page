@@ -1,5 +1,5 @@
 # odin-landing-page
-In diesem Projekt von "The Odin Project" erstelle ich eine Landing-Page mit HTML und CSS. Ich benutze Flexbox zum styling und habe die Webseite für einen Fahrradladen ausgerichtet.
+In diesem Projekt von <em>"The Odin Project"</em> erstelle ich eine Landing-Page mit HTML und CSS. Ich benutze Flexbox zum styling und habe die Webseite für einen Fahrradladen gedacht.
 
 Fotos von Pixabay: <br>
 https://pixabay.com/images/id-6950837/ <br>
