@@ -2,8 +2,7 @@
 ![preview gif](./media/prev.gif) 
 
 ## Description
-In this second project of “The Odin Project” I create a landing page with HTML and CSS. 
-
+In this second project of “The Odin Project” I create a landing page with HTML and CSS. <br>
 This project has:
 - a fixed header,
 - a footer with contact information and
