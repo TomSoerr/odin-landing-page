@@ -1,10 +1,23 @@
-# Mein „Landing-Page“ Projekt
-In diesem Projekt von <em>„The Odin Project“</em> erstelle ich eine Landing-Page mit HTML und CSS. Ich benutze Flexbox zum styling und die Webseite wäre für einen Fahrradladen geeignet. Hier ist ein Link zur [Live Preview](https://tomsoerr.github.io/odin-landing-page/)
+# My “Landing-Page” Project
+![preview gif](./media/prev.gif) 
 
-Hier geht es zu meinem nächsten [Projekt](https://github.com/TomSoerr/odin-rock-paper-scissors)
+## Description
+In this first project of “The Odin Project” I create a landing page with HTML and CSS. 
+This project has:
+- a fixed header,
+- a footer with contact information and
+- three sections which describe company.
 
-Fotos von Pixabay: <br>
-https://pixabay.com/images/id-6950837/ <br>
-https://pixabay.com/images/id-1380134/ <br>
-https://pixabay.com/images/id-86482/ <br>
-https://pixabay.com/images/id-2562316/ <br>
+For the layout I used flexbox and the landing page would be suitable for a bike shop.
+
+## Links
+- [Live Preview](https://tomsoerr.github.io/odin-landing-page/)
+- Link to the [Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
+- See my next [Project](https://github.com/TomSoerr/odin-rock-paper-scissors)
+
+## Notes
+Used pictures from Pixabay.com:
+- [Image 1](https://pixabay.com/images/id-6950837/)
+- [Image 2](https://pixabay.com/images/id-1380134/)
+- [Image 3](https://pixabay.com/images/id-86482/)
+- [Image 4](https://pixabay.com/images/id-2562316/)
