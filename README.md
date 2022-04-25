@@ -3,6 +3,7 @@
 
 ## Description
 In this second project of “The Odin Project” I create a landing page with HTML and CSS. 
+
 This project has:
 - a fixed header,
 - a footer with contact information and
