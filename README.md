@@ -11,6 +11,7 @@ This project has:
 For the layout I used flexbox and the landing page would be suitable for a bike shop.
 
 ## Links
+- [Imprint](https://tomsoerr.github.io/#/impressum)
 - [Live Preview](https://tomsoerr.github.io/odin-landing-page/)
 - Link to the [Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 - See my next [Project](https://github.com/TomSoerr/odin-rock-paper-scissors)
